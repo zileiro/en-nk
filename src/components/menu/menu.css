@@ -1,0 +1,19 @@
+
+.menu{
+    position: absolute;
+    top: 20px;
+    right: 10%;
+    font-weight: bold;
+    display: flex;
+}
+
+.menu a{
+    text-decoration: none;
+}
+.menu-item{
+    color: #000;
+    background-color: #FFF;
+    padding: 12px 24px;
+    border-radius: 40px;
+    margin-top: 50px;
+}
