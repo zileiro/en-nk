@@ -38,9 +38,8 @@ export default function Home(){
       <div className="container-home">
         
         <div className="logo">
-          <img src="/logo.png" alt="Sujeito Link Logo" />
-          <h1>Meu Link</h1>
-          <span>Cole seu link para encurtar 👇</span>
+          <h1>En-Nk</h1>
+          <span>Links curtos, grandes resultados 👇</span>
         </div>
 
         <div className="area-input">
