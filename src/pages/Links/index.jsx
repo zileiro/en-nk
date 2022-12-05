@@ -1,4 +1,4 @@
-import './links.css'
+import './link.css'
 import { FiArrowLeft, FiLink, FiTrash } from 'react-icons/fi'
 import { Link } from 'react-router-dom'
 import { useState, useEffect } from 'react'
